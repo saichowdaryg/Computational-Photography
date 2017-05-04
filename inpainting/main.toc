@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Inpainting}{3}{0}{1}
+\beamer@sectionintoc {2}{Methodology}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{The problem}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Proposed Approach}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Deconvolution using a gaussian prior}{25}{0}{2}
+\beamer@subsectionintoc {2}{4}{Deconvolution using a sparse prior}{31}{0}{2}
+\beamer@sectionintoc {3}{Results}{35}{0}{3}
